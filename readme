@@ -1,0 +1,111 @@
+Jeg har laget flere Python filer for å kunne holde styr på det lettere, men bare 1 javascript fil for å kunne koble den til HTML uten problemer.
+  
+Lengere ned kan du se sammenlingnings svarene mine på hver Oppgave
+
+    **Oppgave 1**
+
+    Input/Output:
+I Python bruker vi input() for å lese data og print() for å vise resultater.
+
+I JavaScript bruker vi prompt() for input og alert() for output.
+
+    Syntaks:
+Python er enklere og bruker elif for flere betingelser.
+
+JavaScript bruker {} for å definere blokker og else if i stedet for elif.
+
+    **oppgave 2**
+
+    Variabler:
+Python har ingen spesifikke nøkkelord for variabler; du kan bare skrive variabelnavn = verdi.
+
+JavaScript krever const, let, eller var for å definere variabler.
+
+    Output:
+Python bruker print().
+
+JavaScript bruker console.log() for å vise resultater i konsollen.
+
+    **Oppgave 3**
+
+    Brukerinput:
+Python bruker input() og konverterer strenger med int() eller float().
+
+JavaScript bruker prompt() og konverterer med parseInt() eller parseFloat().
+
+    String Interpolation:
+Python bruker f"" for å formatere strenger.
+
+JavaScript bruker `` (backticks) med ${} for å sette inn verdier.
+
+    **Oppgave 4**
+
+    Betingelsesuttrykk:
+Python bruker elif for å sjekke flere betingelser.
+
+JavaScript bruker else if, og hver blokk må omsluttes med {}.
+
+    Input/Output:
+Python bruker input() og print().
+
+JavaScript bruker prompt() og alert().
+
+    **Oppgave 5**
+
+    Løkker:
+Python har en enkel range()-funksjon som genererer tallene automatisk.
+
+JavaScript krever at man manuelt setter opp en for-løkke med start, slutt og økning.
+
+    Syntaks:
+Python bruker sum() for å gjøre summen direkte.
+
+JavaScript krever at man selv oppdaterer summen inni løkken.
+
+    **Oppgave 6**
+
+    Lister/Arrays:
+Python bruker lister ([]), som kan inneholde alle typer data.
+
+JavaScript bruker arrays ([]), som også kan inneholde ulike typer data.
+
+    Variabler:
+I Python kan du legge til elementer direkte i listen ved initialisering.
+
+I JavaScript kan du definere en array med verdier på samme måte som Python.
+
+    **Oppgave 7**
+
+    Lister vs Arrays:
+Python bruker list.append() for å legge til elementer.
+
+JavaScript bruker array.push() for samme formål.
+
+    Løkker:
+Python bruker for i in range(), hvor range() lager et tallområde.
+
+JavaScript bruker en tradisjonell for-løkke med en teller (let i = 0; i < 5; i++).
+
+    **Oppgave 8**
+
+    Funksjonsdefinisjon:
+Python bruker def og returnerer flere verdier som en tuple.
+
+JavaScript bruker function og returnerer et objekt for flere verdier.
+
+    Lister vs Arrays:
+Python har innebygde metoder som sort() og sum().
+
+JavaScript bruker sort() med en tilpasset funksjon for numerisk sortering, og reduce() for summen.
+
+    **Oppgave 9**
+
+    Funksjon for reversing:
+Python har list.reverse() som snur listen på stedet.
+
+JavaScript har array.reverse() som gjør akkurat det samme.
+
+    Forskjellen i syntaks:
+Python bruker metoden direkte på listen (liste.reverse()).
+
+JavaScript bruker en tilsvarende metode på arrays.
